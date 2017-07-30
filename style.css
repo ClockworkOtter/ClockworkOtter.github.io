@@ -1,0 +1,84 @@
+.nav-container {
+    width:385px;
+}
+.navbar-default {
+    background-color: #58FFF5;
+    border-color: #58FFF5;
+}
+body {
+    font-family:'Oswald',sans-serif;
+    font-size:18px;
+    background-color:#27A19A;
+}
+.active {
+    background-color:#7A5440;
+}
+.margin {
+    margin-left:10px;
+}
+.portbg {
+    width:310px;
+    height:460px;
+    background-color:#0E5E5A;
+    padding-left:5px;
+    padding-top:5px;
+}
+.titlebg {
+    width:760px;
+    height:110px;
+    background-color:#0E5E5A;
+    padding-left:5px;
+    padding-top:5px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.titleplate {
+    width:750px;
+    height:100px;
+    background-color:whitesmoke;
+    font-family:'Zilla Slab Highlight', cursive;
+    text-align:center;
+    font-size:70px;
+}
+.nameplate {
+    width:310px;
+    height:70px;
+    background-color:#0E5E5A;
+    padding-top:5px;
+}
+.namebg {
+    width:280px;
+    height:40px;
+    background-color:whitesmoke;
+    text-align:center;
+    margin-left:15px;
+}
+.tagline {
+    font-size:30px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.audiobg {
+    width:310px;
+    height:45px;
+    background-color:#0E5E5A;
+    padding-left:5px;
+    padding-top:5px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.pgplate {
+    width:700px;
+    height:150px;
+    background-color:whitesmoke;
+    text-align:center;
+}
+.pgbg {
+    width:710px;
+    height:160px;
+    background-color:#0E5E5A;
+    padding-left:5px;
+    padding-top:5px;
+}
+
+/* #0E5E5A #58FFF5 #3EFFF4 #B24208 #FFAF85 MAIN COLORS */
